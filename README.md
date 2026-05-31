@@ -38,5 +38,5 @@ This project helped in understanding interactive prototyping, navigation flows, 
 
 ## Figma Prototype Link
 
-Paste your Figma prototype link here.
+
 https://www.figma.com/proto/O1YABDQRzd0mJr2QfWNa4t/Untitled?node-id=14-71&t=f0DTlu2ftF0K2z16-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
